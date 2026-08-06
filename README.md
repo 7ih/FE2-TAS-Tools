@@ -1,5 +1,4 @@
 # FE2 TAS Tools
-[discord](https://discord.gg/rvKNT6bzv6)
 
 Flood Escape 2 TAS tools by 7ih,
 Global TAS by altlexon
@@ -13,3 +12,5 @@ few more examples in discord #tas-videos
 
 Inspired by [8y8x](https://www.youtube.com/@8y8x)'s tas tools' decompiled code. Every line of code has been rewritten. Many features have been added as well. 
 Check out [8y8x's really cool project](https://www.youtube.com/watch?v=pTBZKNg4k8g)
+
+[Discord](https://discord.gg/rvKNT6bzv6)
